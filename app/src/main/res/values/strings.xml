@@ -1,3 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">[20243007054]-AssignmentOne</string>
+
+    <string name="app_name">CampusLife</string>
+
+    <string name="welcome_message">Welcome to CampusLife - Your Pocket Guide to University of Waikato</string>
+
+    <string name="facilities">Facilities</string>
+    <string name="events">Events</string>
+    <string name="clubs">Clubs</string>
+    <string name="support">Support</string>
+
+    <string name="category_clicked">%1$s clicked</string>
+
+    <string-array name="category_names">
+        <item>@string/facilities</item>
+        <item>@string/events</item>
+        <item>@string/clubs</item>
+        <item>@string/support</item>
+    </string-array>
+
 </resources>
